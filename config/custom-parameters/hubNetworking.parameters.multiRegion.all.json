@@ -128,19 +128,19 @@
       "value": "nsg-AzureBastionSubnet-"
     },
     "parDdosEnabled": {
-      "value": true
+      "value": false
     },
     "parDdosPlanName": {
       "value": "alz-ddos-plan-swedencentral"
     },
     "parDdosEnabledSecondaryLocation": {
-      "value": true
+      "value": false
     },
     "parDdosPlanNameSecondaryLocation": {
       "value": "alz-ddos-plan-"
     },
     "parAzFirewallEnabled": {
-      "value": true
+      "value": false
     },
     "parAzFirewallName": {
       "value": "alz-azfw-swedencentral"
@@ -162,7 +162,7 @@
       ]
     },
     "parAzFirewallEnabledSecondaryLocation": {
-      "value": true
+      "value": false
     },
     "parAzFirewallNameSecondaryLocation": {
       "value": "alz-azfw-"
@@ -200,7 +200,7 @@
       "value": []
     },
     "parAzFirewallDnsProxyEnabled": {
-      "value": true
+      "value": false
     },
     "parAzFirewallDnsServers": {
       "value": []
@@ -212,7 +212,7 @@
       "value": false
     },
     "parAzFirewallDnsProxyEnabledSecondaryLocation": {
-      "value": true
+      "value": false
     },
     "parAzFirewallDnsServersSecondaryLocation": {
       "value": []
@@ -280,7 +280,7 @@
       }
     },
     "parExpressRouteGatewayEnabled": {
-      "value": true
+      "value": false
     },
     "parExpressRouteGatewayConfig": {
       "value": {
@@ -304,7 +304,7 @@
       }
     },
     "parExpressRouteGatewayEnabledSecondaryLocation": {
-      "value": true
+      "value": false
     },
     "parExpressRouteGatewayConfigSecondaryLocation": {
       "value": {

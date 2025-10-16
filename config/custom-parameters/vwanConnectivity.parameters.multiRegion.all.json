@@ -9,7 +9,7 @@
       "value": "alz"
     },
     "parVirtualHubEnabled": {
-      "value": true
+      "value": false
     },
     "parVirtualWanName": {
       "value": "alz-vwan-swedencentral"
