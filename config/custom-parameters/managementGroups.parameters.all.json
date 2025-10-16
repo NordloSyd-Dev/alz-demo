@@ -1,0 +1,36 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "parTopLevelManagementGroupPrefix": {
+      "value": "alz"
+    },
+    "parTopLevelManagementGroupSuffix": {
+      "value": ""
+    },
+    "parTopLevelManagementGroupDisplayName": {
+      "value": "Azure Landing Zones"
+    },
+    "parTopLevelManagementGroupParentId": {
+      "value": "e87e3c47-f133-4bb3-8d97-e5eadf26013e"
+    },
+    "parLandingZoneMgAlzDefaultsEnable": {
+      "value": true
+    },
+    "parPlatformMgAlzDefaultsEnable": {
+      "value": true
+    },
+    "parLandingZoneMgConfidentialEnable": {
+      "value": false
+    },
+    "parLandingZoneMgChildren": {
+      "value": {}
+    },
+    "parPlatformMgChildren": {
+      "value": {}
+    },
+    "parTelemetryOptOut": {
+      "value": false
+    }
+  }
+}
